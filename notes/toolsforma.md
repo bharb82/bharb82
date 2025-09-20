@@ -5,13 +5,16 @@
 - Maus
 - Tastatur
 - Bildschirm UHD
+
 **Officetools**
 - kSuite Account
 - Peoplefone Hosted
 - Peoplefone Queue
+
 **Verwaltungstools**
 - MDM (Apptec360)
 - Antivirus (Gdata oder Avira)
+
 **Entwicklertools**
 - Github Teams Account
 - Cursor Teams Account
