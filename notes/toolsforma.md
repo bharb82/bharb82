@@ -1,6 +1,6 @@
 **Geräte**
-- iPhone 16e inkl. Telefonvertrag
 - MacBook Air 15‘
+- WLAN Router + Internet-Sim
 - Headset Bluetooth
 - Maus
 - Tastatur
