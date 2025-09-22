@@ -8,8 +8,9 @@
 
 **Officetools**
 - kSuite Account
-- Peoplefone Hosted
-- Peoplefone Queue
+- Peoplefone Hosted oder 3cx
+- Time Tracker (Wakatime, TimeApp)
+- Odoo (Ticket, Buchhaltung, etc)
 
 **Verwaltungstools**
 - MDM (Apptec360)
